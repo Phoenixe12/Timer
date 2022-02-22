@@ -1,0 +1,41 @@
+{
+    "3": [
+        {
+            "titre": "{titre}",
+            "description": "{description}",
+            "dates": "{07}"
+        },
+        {
+            "titre": "{titre}",
+            "description": "{description}",
+            "dates": "{07}"
+        },
+        {
+            "titre": "{titre}",
+            "description": "{description}",
+            "dates": "{07}"
+        },
+        {
+            "titre": "{titre}",
+            "description": "{description}",
+            "dates": "{07}"
+        },
+        {
+            "titre": "{titre}",
+            "description": "{description}",
+            "dates": "{07}"
+        }
+    ],
+    "event": [
+        {
+            "titre": "{bapteme}",
+            "description": "{bapteme}",
+            "dates": "{07}"
+        },
+        {
+            "titre": "{bapteme}",
+            "description": "{bapteme}",
+            "dates": "{07}"
+        }
+    ]
+}
