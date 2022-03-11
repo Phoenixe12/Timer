@@ -1,0 +1,56 @@
+{
+    "timer": [
+        {
+            "pays": "Afghanistan ",
+            "dateheure": "GMT+3:30"
+        },
+        {
+            "pays": "Albania ",
+            "dateheure": "GMT+0h"
+        },
+        {
+            "pays": "Algeria",
+            "dateheure": "GMT+0h"
+        },
+        {
+            "pays": "Andorre",
+            "dateheure": "GMT+0h"
+        },
+        {
+            "pays": "Angola",
+            "dateheure": "GMT+0h"
+        },
+        {
+            "pays": "Antigua & Deps",
+            "dateheure": "GMT-5h"
+        },
+        {
+            "pays": "Argentine ",
+            "dateheure": "GMT-4h"
+        },
+        {
+            "pays": "Armenia",
+            "dateheure": "GMT+3h"
+        },
+        {
+            "pays": "Australia ",
+            "dateheure": "GMT+9h "
+        }, 
+        {
+            "pays": "Azerbaijan  ",
+            "dateheure": "GMT+3h"
+        }, 
+        {
+            "pays": "Australia ",
+            "dateheure": "GMT+9h "
+        }, 
+        {
+            "pays": "Bahamas",
+            "dateheure": "GMT-1h "
+        }, 
+        {
+            "pays": "Benin ",
+            "dateheure": "GMT+0h "
+        }
+    ]
+}
